@@ -1,0 +1,11 @@
+a = {"A","B","C","D"}
+print(a)
+a.add("E")
+print(a)
+a.remove("C")
+print(a)
+print(len(a))
+a.pop()
+print(a)
+a.clear()
+print(a)

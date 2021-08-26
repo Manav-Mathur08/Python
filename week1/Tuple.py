@@ -1,0 +1,6 @@
+t=(10,20,"MM",5)
+print(t)
+print(len(t))
+print(any(t))
+print(t[2])
+print(t[0:2])
